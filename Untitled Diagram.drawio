@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T11:04:15.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.4" etag="kJqbVBNnTLcQ8jPGnL98" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T11:08:21.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yCgCjLam64CV3ipJdWTK" version="24.5.4" type="github">
   <diagram name="Page-1" id="EHgN61SNUZVo0pz0LHWV">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AZ8MqXKVN3J1rLf9WYfS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="510" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="AZ8MqXKVN3J1rLf9WYfS-5" value="User Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AZ8MqXKVN3J1rLf9WYfS-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.095;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260.1" y="200.07999999999998" as="sourcePoint" />
+            <mxPoint x="260" y="129.99999999999994" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AZ8MqXKVN3J1rLf9WYfS-7" value="Create New User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AZ8MqXKVN3J1rLf9WYfS-8" value="New User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AZ8MqXKVN3J1rLf9WYfS-9" value="Add" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
